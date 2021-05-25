@@ -25,3 +25,5 @@
   <li>Open Websites like Google, GeeksforGeeks, StackOverflow, Spotify, Hotstar etc. </li>
   <li>Tell date and time.</li></ol>
   <p>and much more...</p>
+<hr>
+<p>Refer to <a href="https://github.com/DGreat49251/Personal-Voice-Assistant/">this</a> repository for the code and if you like it please Follow me and star the repository for fututre reference.</p>
